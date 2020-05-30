@@ -15,7 +15,7 @@ To get notified about new releases, watch this repository for `Releases only`.
 Docs are located [here](https://www.elastic.co/guide/en/apm/agent/java/current/index.html).
 
 ## Getting Help
-
+s
 If you find a bug,
 please [report an issue](https://github.com/elastic/apm-agent-java/issues/new).
 For any other assistance,
